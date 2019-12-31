@@ -12,4 +12,10 @@ created new branchs for work, the master branch should be merged with new releas
 ## feature branch:<br />
 
 This branch is about new tasks, new tasks was defined by arquiteture team should be maded in the feature branch, and 
-one new task should be has one new feature branch, we can have various features branchs in project.
+one new task should be has one new feature branch, we can have various features branchs in project.<br /><br />
+
+
+## develop branch:<br />
+
+Develop branch should be receive merge from new features, for test by development squad, if the tests that are ok, then
+develop branch can merge on new release branch, else, return to feature and should be fixed.
