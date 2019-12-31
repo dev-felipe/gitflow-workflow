@@ -20,7 +20,14 @@ one new task should be has one new feature branch, we can have various features 
 Develop branch should be receive merge from new features, for test by development squad, if the tests that are ok, then
 develop branch can merge on new release branch, else, return to feature and should be fixed.<br /><br />
 
+
 ## release branch:<br />
 
 release is used like a history, then all the final versions about the project is merged on the release branch, we can have
-a history about all project versions, should be merged on release branch the functionally final versions
+a history about all project versions, should be merged on release branch the functionally final versions.<br /><br />
+
+
+## hotfix branch:<br />
+
+This branch receive bugs from master branch wich can't wait for new feature, should be merged on hotfix all critical
+bugs on production, then was fixed, should be merged on master again.
