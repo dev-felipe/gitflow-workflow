@@ -6,5 +6,10 @@ It is a version of code used in large projects where a code control is very impo
 ## master branch:<br />
 
 This branch has all the ultimate version of the project, the project wich is on production, from master branch, we 
-created new branchs for work, the master branch should be merged with new release branches that are ok.
+created new branchs for work, the master branch should be merged with new release branches that are ok.<br /><br />
 
+
+## feature branch:<br />
+
+This branch is about new tasks, new tasks was defined by arquiteture team should be maded in the feature branch, and 
+one new task should be has one new feature branch, we can have various features branchs in project.
